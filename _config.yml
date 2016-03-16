@@ -1,0 +1,28 @@
+name: vacant earth
+favicon: null
+layout_spectrum: 0.12227896833792329
+typography_spectrum: 0.704782284796238
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.08991426369175315
+  lightness: 0.17718421295285225
+  saturation: 0.3962330827489495
+  rhythmicContrast: 0.9850550917908549
+purpose: []
